@@ -1,5 +1,7 @@
 package com.yize.douban.base;
 
+import com.yize.douban.util.HttpRequestHelper;
+
 import java.util.HashMap;
 import java.util.Map;
 

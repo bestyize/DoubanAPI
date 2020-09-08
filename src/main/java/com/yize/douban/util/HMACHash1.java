@@ -1,4 +1,6 @@
-package com.yize.douban.base;
+package com.yize.douban.util;
+
+import com.yize.douban.util.Base64;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

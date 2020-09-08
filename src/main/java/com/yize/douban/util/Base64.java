@@ -1,4 +1,4 @@
-package com.yize.douban.base;
+package com.yize.douban.util;
 
 /*
  * Copyright (C) 2010 The Android Open Source Project

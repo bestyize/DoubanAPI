@@ -1,4 +1,4 @@
-package com.yize.douban.base;
+package com.yize.douban.util;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

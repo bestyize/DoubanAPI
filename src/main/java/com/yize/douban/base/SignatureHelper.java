@@ -1,5 +1,6 @@
 package com.yize.douban.base;
 
+import com.yize.douban.util.HMACHash1;
 import com.yize.douban.util.TextUtils;
 
 import java.io.UnsupportedEncodingException;
